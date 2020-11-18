@@ -1,0 +1,22 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadybekov/reactApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadybekov/reactApp/issues"
+  },
+  "homepage": "https://github.com/sadybekov/reactApp#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
